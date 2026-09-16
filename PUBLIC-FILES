@@ -1,6 +1,7 @@
 # Exact files and explicitly public directory trees copied by export-public-source.sh.
 # Prefix an entry with ? when it is allowed but may not exist yet.
 .gitignore
+.gitattributes
 PUBLIC-FILES
 README.md
 LICENSE
