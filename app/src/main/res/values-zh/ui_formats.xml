@@ -1,0 +1,18 @@
+<resources>
+    <string name="ui_loading_apps">正在加载应用…</string>
+    <string name="ui_move_app">移动 %1$s</string>
+    <string name="ui_move_page">移至第 %1$d 页</string>
+    <string name="ui_home_page">桌面第 %1$d 页</string>
+    <string name="ui_home_pages">桌面第 %1$d、%2$d 页</string>
+    <string name="ui_home_page_count">桌面第 %1$d 页，共 %2$d 页</string>
+    <string name="ui_widget_and_home">小组件与桌面第 1 页</string>
+    <string name="ui_create_folder">与 %1$s 新建文件夹</string>
+    <string name="ui_columns">%1$d 列</string>
+    <string name="ui_rows">%1$d 行</string>
+    <string name="ui_profile_paused">%1$s 应用已暂停</string>
+    <string name="ui_profile_unavailable">%1$s 资料暂不可用</string>
+    <string name="ui_unavailable">暂不可用</string>
+    <string name="ui_battery_unavailable">无法获取电量</string>
+    <string name="ui_move_widgets_page">移至小组件页</string>
+    <string name="ui_battery_status">本机电量 %1$s，%2$s</string>
+</resources>

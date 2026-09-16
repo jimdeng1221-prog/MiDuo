@@ -1,0 +1,12 @@
+<resources>
+    <string name="dune_wallpaper_description">MiDuo dunes — the launcher’s landscape, sized for your display.</string>
+    <string name="shade_service_label">MiDuo navigation gestures</string>
+    <string name="shade_service_description">Provides edge gestures for Back, Home and Recents across apps, plus notification and Quick Settings actions. Uses narrow touch overlays without reading screen content or observing other apps. Active when MiDuo is the default launcher and gesture navigation is enabled.</string>
+    <string name="navigation_title">Navigation and recovery</string>
+    <string name="navigation_help">Swipe up from the bottom centre to go Home. Swipe up and hold for Recents. Swipe inward from either side to go Back. Hold the bottom centre without moving for two seconds to reopen this menu. These gestures replace basic navigation, not system animations.</string>
+    <string name="navigation_restore">Restore buttons</string>
+    <string name="navigation_enable">Enable gestures</string>
+    <string name="navigation_restore_settings">Open system navigation settings to restore the three buttons.</string>
+    <string name="navigation_activation_required">System navigation permission is missing. Try system gesture settings first; restricted devices may need ADB or supported on-phone wireless debugging authorization.</string>
+    <string name="navigation_action_failed">System action unavailable. Hold the bottom edge for recovery.</string>
+</resources>

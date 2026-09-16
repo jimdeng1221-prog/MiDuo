@@ -1,0 +1,6 @@
+<resources>
+    <string name="recommended_layout_apply">应用布局</string>
+    <string name="settings_back">返回</string>
+    <string name="recommended_layout">应用推荐应用布局</string>
+    <string name="recommended_layout_detail">将桌面应用页和 Dock 换为已安装的系统与国内常用应用，第二页自动分类文件夹，图标设为 48 dp。保留小组件和壁纸；在继续其他编辑前可通过设置中的撤销恢复。</string>
+</resources>

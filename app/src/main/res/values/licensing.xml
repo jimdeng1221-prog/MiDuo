@@ -1,0 +1,35 @@
+<resources>
+    <string name="miduo_about">About MiDuo</string>
+    <string name="miduo_author">Developed and maintained by D.JT</string>
+    <string name="miduo_copyright">© 2026 D.JT. Rights reserved in the original contributions to the extent owned by D.JT. Third-party code remains under its respective licenses.</string>
+    <string name="miduo_attribution">MiDuo builds on open-source work including Duo Launcher, GlassProjection and Haze. Do not impersonate the official publisher or misrepresent authorship. Retain notices where required by the applicable licenses; those licenses continue to govern reuse.</string>
+    <string name="miduo_version">Version %1$s</string>
+    <string name="miduo_licenses">Open-source licenses</string>
+    <string name="miduo_activate">Activate settings</string>
+    <string name="miduo_activated">Settings activated</string>
+    <string name="miduo_activation_detail">You can browse Home and open apps without activation. Setting the default launcher, enabling accessibility, restoring full-screen gestures, personalization, and long-press actions on apps or folders require a license. About remains available. Restore system launcher is available without a license only when MiDuo is already your default home. Enter your purchased code to bind this device online once; after activation, these features work offline.</string>
+    <string name="miduo_device">Device code</string>
+    <string name="miduo_copy_device">Copy device code</string>
+    <string name="miduo_copied">Device code copied</string>
+    <string name="miduo_enter_code">Authorization code</string>
+    <string name="miduo_activate_button">Activate</string>
+    <string name="miduo_invalid_code">Invalid or unavailable authorization code. Check the complete code and try again.</string>
+    <string name="miduo_missing_device">Device identification is unavailable. Activation is disabled; Home and recovery remain available.</string>
+    <string name="miduo_binding_detail">One code binds to one device, with no expiry. Keep your code: after clearing app data, enter it again online to restore activation on the same device. A factory reset, Android user/profile change or app-signing change may require support. No periodic online checks are required.</string>
+    <string name="miduo_fold_animation">Fold animation</string>
+    <string name="miduo_fold_animation_detail">On by default. Turn off to disable glass projection on both screens. Screen switching and StandBy are unaffected.</string>
+    <string name="miduo_standby">Enable StandBy</string>
+    <string name="miduo_standby_detail">Off by default. When enabled, turning the cover screen sideways opens StandBy. The inner screen is unaffected.</string>
+    <string name="miduo_back">Back</string>
+    <string name="miduo_get_code">Get an authorization code at mymiduo.xyz</string>
+    <string name="miduo_website">Official website · mymiduo.xyz</string>
+    <string name="miduo_browser_unavailable">Unable to open a browser. Visit https://mymiduo.xyz</string>
+    <string name="miduo_activation_privacy">Only when you activate, MiDuo sends your authorization code and a one-way, app-scoped device identifier to mymiduo.xyz over HTTPS to bind and restore your license. IMEI, phone number and app list are not collected. The service stores the code hash, binding and activation time; the connection exposes your IP address for security rate limiting.</string>
+    <string name="miduo_activation_consent">I agree to send this information for license activation.</string>
+    <string name="miduo_activating">Activating…</string>
+    <string name="miduo_code_bound">This code is already bound to another device. Contact the official website for help.</string>
+    <string name="miduo_network_error">Unable to connect securely. Check your network and try again. Retrying on this device will not use an extra license.</string>
+    <string name="miduo_server_error">Activation service is temporarily unavailable or returned an unverifiable response. Try again later.</string>
+    <string name="miduo_rate_limit">Too many attempts. Please wait one minute and try again.</string>
+    <string name="miduo_save_error">Unable to save activation. Free some storage and retry with the same code.</string>
+</resources>

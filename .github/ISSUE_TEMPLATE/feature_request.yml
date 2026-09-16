@@ -1,0 +1,25 @@
+name: Feature request
+description: Suggest an improvement to Duo Launcher
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What would you like to do?
+      description: Describe the task or problem the feature would address.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Proposed behavior
+      description: Describe how you imagine it working on the cover and inner displays.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Share any current workaround or other approach you tried.

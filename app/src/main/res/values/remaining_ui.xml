@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_options">App options</string>
+    <string name="pin_app">Pin %1$s to Home</string>
+    <string name="unpin_app">Remove %1$s from Home</string>
+    <string name="choose_dock_app">Choose Dock app</string>
+    <string name="folder_summary">Folder %1$s, %2$d apps</string>
+    <string name="cutout_safety">Display cutout safety area</string>
+    <string name="pending_widget">Pending widget: %1$s</string>
+    <string name="move_replace_widget">Move or replace widget</string>
+    <string name="wallpaper_unavailable">The system wallpaper preview is unavailable.</string>
+    <string name="wallpaper_service_name">MiDuo dunes</string>
+    <string name="folder_close">Close folder</string>
+    <string name="folder_open_app">Open %1$s</string>
+    <string name="folder_app_actions">Actions for %1$s</string>
+    <string name="app_unavailable">%1$s is unavailable.</string>
+    <string name="standby_title">StandBy</string>
+    <string name="standby_calendar">Full-screen calendar</string>
+    <string name="standby_night">Night clock</string>
+    <string name="standby_widgets">Clock and calendar</string>
+    <string name="standby_photo">Wallpaper clock</string>
+    <string name="standby_digital">Full-screen clock</string>
+    <string name="standby_exit">Return to Home</string>
+    <string name="standby_hint">Swipe for more · Rotate upright to return</string>
+    <string name="standby_page">View %1$d of %2$d</string>
+</resources>

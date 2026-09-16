@@ -1,0 +1,12 @@
+<resources>
+    <string name="dune_wallpaper_description">MiDuo 沙丘——会根据屏幕尺寸调整的启动器景观壁纸。</string>
+    <string name="shade_service_label">MiDuo 导航手势</string>
+    <string name="shade_service_description">通过屏幕边缘手势执行返回、回桌面和最近任务，也可打开通知栏与快捷设置。仅使用窄边缘触摸层，不读取屏幕内容或监听其他应用活动。在 MiDuo 为默认桌面且系统启用手势导航时生效。</string>
+    <string name="navigation_title">导航与恢复</string>
+    <string name="navigation_help">从底边中部上滑回桌面，上滑后停留打开最近任务；从左右侧边向内滑动返回。按住底边中部不动两秒可再次打开此菜单。这些手势替代基本导航操作，不包含系统跟手动画。</string>
+    <string name="navigation_restore">恢复三键</string>
+    <string name="navigation_enable">启用手势</string>
+    <string name="navigation_restore_settings">请在系统导航设置中恢复三键导航。</string>
+    <string name="navigation_activation_required">缺少修改系统导航的权限。请先尝试系统手势设置；若被系统限制，可用 ADB 或受支持的手机端无线调试授权。</string>
+    <string name="navigation_action_failed">系统操作暂不可用，可按住底边打开恢复菜单。</string>
+</resources>

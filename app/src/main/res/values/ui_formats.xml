@@ -1,0 +1,18 @@
+<resources>
+    <string name="ui_loading_apps">Loading apps…</string>
+    <string name="ui_move_app">Move %1$s</string>
+    <string name="ui_move_page">Move to page %1$d</string>
+    <string name="ui_home_page">Home page %1$d</string>
+    <string name="ui_home_pages">Home pages %1$d and %2$d</string>
+    <string name="ui_home_page_count">Home page %1$d of %2$d</string>
+    <string name="ui_widget_and_home">Widgets and Home page 1</string>
+    <string name="ui_create_folder">Create folder with %1$s</string>
+    <string name="ui_columns">%1$d columns</string>
+    <string name="ui_rows">%1$d rows</string>
+    <string name="ui_profile_paused">%1$s apps are paused</string>
+    <string name="ui_profile_unavailable">%1$s profile is unavailable</string>
+    <string name="ui_unavailable">Unavailable</string>
+    <string name="ui_battery_unavailable">Battery unavailable</string>
+    <string name="ui_move_widgets_page">Move to widgets page</string>
+    <string name="ui_battery_status">Device battery %1$s, %2$s</string>
+</resources>

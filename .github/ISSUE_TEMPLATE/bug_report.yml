@@ -1,0 +1,45 @@
+name: Bug report
+description: Report a reproducible Duo Launcher problem
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve Duo Launcher.
+  - type: input
+    id: version
+    attributes:
+      label: Duo Launcher version
+      placeholder: 0.15.0-beta01
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device and Android version
+      placeholder: Device model, Android version, and folded or unfolded state if relevant
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Include what you expected and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open …
+        2. Swipe …
+        3. See …
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add screenshots or logs after removing personal information.

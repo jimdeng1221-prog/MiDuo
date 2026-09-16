@@ -1,0 +1,9 @@
+<resources>
+    <string name="compact_rename_folder">Rename folder</string>
+    <string name="compact_dissolve_folder">Dissolve folder; keep apps on Home</string>
+    <string name="weather_example">Example weather</string>
+    <string name="weather_location">Your city</string>
+    <string name="weather_clear">Clear skies</string>
+    <string name="weather_high_low">H:29°  L:23°</string>
+    <string name="weather_hour">%1$d:00</string>
+</resources>

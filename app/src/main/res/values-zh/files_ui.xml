@@ -1,0 +1,19 @@
+<resources>
+    <string name="backup_error">无法读取、保存或恢复布局。请检查文件及访问权限后重试。</string>
+    <string name="backup_saved">桌面备份已保存。</string>
+    <string name="backup_restored">布局已恢复，部分小组件需要重新连接。</string>
+    <string name="backup_unchanged">当前已使用此布局。</string>
+    <string name="backup_preview">确认恢复布局</string>
+    <string name="backup_counts">%1$d 个应用 · %2$d 个文件夹 · %3$d 个小组件</string>
+    <string name="backup_leading">包含负一屏小组件页面。</string>
+    <string name="backup_settings">同时恢复备份中的图标布局与显示偏好。</string>
+    <string name="backup_no_photo">桌面备份不包含你选择的壁纸照片。</string>
+    <string name="backup_missing">暂不可用的应用（%1$d）</string>
+    <string name="backup_empty_slot">%1$s — 保留其空位</string>
+    <string name="backup_profile">部分应用资料需要处理，请解锁或开启对应资料以访问应用。</string>
+    <string name="backup_widget_reconnect">%1$d 个小组件将保留位置，并提示重新连接。</string>
+    <string name="backup_confirm_help">点击“恢复”之前，不会修改当前桌面。</string>
+    <string name="photo_error">无法打开或保存此照片，请选择可以访问的图片后重试。</string>
+    <string name="photo_updated">壁纸已更新。</string>
+    <string name="photo_reset">已恢复 MiDuo 沙丘壁纸。</string>
+</resources>

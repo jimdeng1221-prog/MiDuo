@@ -1,0 +1,19 @@
+<resources>
+    <string name="backup_error">Unable to read, save or restore this layout. Check the file and its access permission, then try again.</string>
+    <string name="backup_saved">Layout backup saved.</string>
+    <string name="backup_restored">Layout restored. Widgets may need to reconnect.</string>
+    <string name="backup_unchanged">This layout is already active.</string>
+    <string name="backup_preview">Review restored layout</string>
+    <string name="backup_counts">%1$d apps · %2$d folders · %3$d widgets</string>
+    <string name="backup_leading">Includes the widgets page.</string>
+    <string name="backup_settings">Saved icon layout and display preferences are also restored.</string>
+    <string name="backup_no_photo">Your selected wallpaper photo is not included in layout backups.</string>
+    <string name="backup_missing">Unavailable apps (%1$d)</string>
+    <string name="backup_empty_slot">%1$s — its saved position will stay empty</string>
+    <string name="backup_profile">Some app profiles need attention. Unlock or enable their profile to access these apps.</string>
+    <string name="backup_widget_reconnect">%1$d widgets will keep their saved space and ask to reconnect.</string>
+    <string name="backup_confirm_help">Nothing changes until you choose Restore.</string>
+    <string name="photo_error">Unable to open or save this photo. Choose an accessible image and try again.</string>
+    <string name="photo_updated">Wallpaper updated.</string>
+    <string name="photo_reset">Using MiDuo dunes.</string>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="wireless_pairing_complete">Paired successfully. Connecting to this phone…</string>
+    <string name="wireless_connected">Connected to this phone. Verifying navigation permission…</string>
+    <string name="wireless_success_title">Authorization successful</string>
+    <string name="wireless_success_message">Connected to this phone. MiDuo navigation settings permission has been verified.\n\nYou can now enable gestures, then test Back, Home and Recents. No computer was needed.</string>
+    <string name="wireless_paired_title">Paired · connection still needed</string>
+    <string name="wireless_failure_title">Authorization not completed</string>
+    <string name="wireless_return_setup">Return to setup</string>
+    <string name="wireless_title">Computer-free authorization</string>
+    <string name="wireless_intro">Use this phone’s wireless debugging to authorize MiDuo navigation settings. No computer or separate Shizuku app required.</string>
+    <string name="wireless_steps">1. Enable Developer options and connect to Wi-Fi.\n2. Open Wireless debugging, turn it on, then choose Pair device with pairing code.\n3. Keep the system pairing dialog open. Tap the MiDuo Pair bubble and enter its 6-digit code. Ports are discovered automatically or can be entered manually.</string>
+    <string name="wireless_pair_port">Pairing port (after : in the pairing dialog)</string>
+    <string name="wireless_code">6-digit pairing code</string>
+    <string name="wireless_connect_port">Connection port (Wireless debugging main page)</string>
+    <string name="wireless_pair_authorize">Pair and authorize this phone</string>
+    <string name="wireless_connect_authorize">Already paired: connect and authorize</string>
+    <string name="wireless_open_settings">Open Wireless debugging</string>
+    <string name="wireless_bubble">MiDuo Pair</string>
+    <string name="wireless_enable">Enable gestures after authorization</string>
+    <string name="wireless_privacy">Loopback only. Grants only MiDuo WRITE_SECURE_SETTINGS. Does not read screens, files or other apps. Pairing codes are never saved or uploaded. Close to cancel; hold the bubble to dismiss. It expires after 10 minutes.</string>
+    <string name="wireless_prerequisites">Activate your MiDuo license, select MiDuo as default Home, and enable its accessibility service first.</string>
+    <string name="wireless_invalid_input">Enter the pairing port and exactly 6 digits. The pairing port and connection port are different.</string>
+    <string name="wireless_missing_connect">Enter the connection port from the Wireless debugging main page, not the pairing dialog.</string>
+    <string name="wireless_open_manually">Open Settings → Additional settings → Developer options → Wireless debugging. Enable Developer options first if needed.</string>
+    <string name="wireless_working">Pairing locally and verifying permission (up to 45 seconds)…</string>
+    <string name="wireless_paired_need_connect">Paired. Find the connection port on the Wireless debugging main page, enter it and tap Already paired: connect and authorize.</string>
+    <string name="wireless_authorized">Verified: navigation settings permission granted. Enable gestures, then test Back, Home and Recents. Hold the bottom edge for 2 seconds to open recovery.</string>
+    <string name="wireless_grant_denied">Paired, but permission was denied. On Xiaomi, check USB debugging (Security settings) in Developer options and follow system confirmation steps before retrying. MiDuo cannot bypass system restrictions.</string>
+    <string name="wireless_failed">Authorization did not complete. Check wireless debugging, keep the pairing dialog open, use a fresh code, and verify both ports. If the system requires security settings, follow its instructions before retrying.</string>
+    <string name="wireless_native_failed">The pairing component could not load on this system. Navigation mode was not changed. Keep system navigation buttons and report the device model.</string>
+</resources>

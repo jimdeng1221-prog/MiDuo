@@ -1,0 +1,31 @@
+<resources>
+    <string name="wireless_pairing_complete">配对成功，正在连接本机…</string>
+    <string name="wireless_connected">已连接本机，正在校验导航权限…</string>
+    <string name="wireless_success_title">授权成功</string>
+    <string name="wireless_success_message">已连接本机，MiDuo 导航设置权限已校验通过。\n\n现在可以启用手势，再测试返回、回桌面和最近任务。本次配置无需电脑。</string>
+    <string name="wireless_paired_title">配对成功，还需连接</string>
+    <string name="wireless_failure_title">授权未完成</string>
+    <string name="wireless_return_setup">返回配置</string>
+    <string name="wireless_title">免电脑授权</string>
+    <string name="wireless_intro">通过本机无线调试，为 MiDuo 授予修改导航设置的权限。不需要电脑，也不用安装 Shizuku。</string>
+    <string name="wireless_steps">1. 开启开发者选项并连接 Wi-Fi。\n2. 点「打开无线调试」，打开开关，再点「使用配对码配对设备」。\n3. 保持系统配对窗口打开，点右上方「MiDuo 配对」浮钮，输入 6 位配对码。端口会自动查找，也可手填。</string>
+    <string name="wireless_pair_port">配对端口（配对码窗口的冒号后数字）</string>
+    <string name="wireless_code">6 位配对码</string>
+    <string name="wireless_connect_port">连接端口（无线调试主页的冒号后数字）</string>
+    <string name="wireless_pair_authorize">配对并授权此手机</string>
+    <string name="wireless_connect_authorize">已配对：连接并授权</string>
+    <string name="wireless_open_settings">打开无线调试</string>
+    <string name="wireless_bubble">MiDuo 配对</string>
+    <string name="wireless_enable">授权后启用手势</string>
+    <string name="wireless_privacy">仅连接本机，仅授予 MiDuo 的 WRITE_SECURE_SETTINGS 权限；不读取屏幕、文件或其他应用数据。配对码不保存、不上传。可随时关闭面板取消，长按浮钮关闭；浮钮 10 分钟后自动消失。</string>
+    <string name="wireless_prerequisites">请先激活 MiDuo 授权、设为默认桌面，并启用 MiDuo 无障碍服务。</string>
+    <string name="wireless_invalid_input">请输入正确的配对端口和 6 位数字配对码。配对端口与连接端口不是同一个。</string>
+    <string name="wireless_missing_connect">请输入无线调试主页显示的连接端口，不是配对窗口中的端口。</string>
+    <string name="wireless_open_manually">请手动进入：设置 → 更多设置 → 开发者选项 → 无线调试。首次使用需先开启开发者选项。</string>
+    <string name="wireless_working">正在本机配对并校验权限，请稍候（最长 45 秒）…</string>
+    <string name="wireless_paired_need_connect">已配对。请回无线调试主页查看连接端口，输入后点「已配对：连接并授权」。</string>
+    <string name="wireless_authorized">已校验：导航设置权限已授予。点「授权后启用手势」，再测试返回、主页、最近任务。底部按住 2 秒可呼出恢复菜单。</string>
+    <string name="wireless_grant_denied">配对成功，但系统拒绝授予权限。小米可检查开发者选项中的「USB 调试（安全设置）」，按系统要求确认后重试。MiDuo 不会绕过系统限制。</string>
+    <string name="wireless_failed">未完成授权。请检查无线调试仍开启、配对窗口仍在、配对码未过期，以及两个端口填写正确。若提示安全设置限制，请按系统要求开启后重试。</string>
+    <string name="wireless_native_failed">此系统未能加载配对组件。未修改导航模式；可继续使用系统导航键并反馈机型。</string>
+</resources>

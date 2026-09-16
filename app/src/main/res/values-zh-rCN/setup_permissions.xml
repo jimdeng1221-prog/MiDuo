@@ -1,0 +1,10 @@
+<resources>
+    <string name="setup_permissions_title">安装与权限说明</string>
+    <string name="setup_restricted_notice">首次安装若提示“受限设置／拒绝敏感权限”，请先在 MiDuo 应用信息中允许受限设置，再开启 MiDuo 导航手势无障碍服务。</string>
+    <string name="setup_restricted_help">请仅在确认安装包来自可信来源后继续。若提示“受限设置”或“已拒绝此应用获取敏感权限”：进入 MiDuo 应用信息 → 右上角更多（⋮）→ 允许受限设置，再返回 无障碍 → 已下载的应用 → MiDuo 导航手势 开启服务。HyperOS 安装完成页也可能提供“去允许应用获取权限”，可按系统引导操作。名称和入口因系统版本而异，MiDuo 无法替你批准此保护。</string>
+    <string name="setup_app_details">MiDuo 应用信息</string>
+    <string name="setup_permissions_help">导航所需：先激活 MiDuo 授权，再设为默认桌面并开启无障碍服务。该服务用于返回、主页、最近任务和呼出系统面板，不读取屏幕内容。说明可免费查看，应用信息及设置快捷入口需 MiDuo 授权。\n\n按需开启：若服务被后台关闭，再检查 HyperOS 自启动和省电限制；大致位置仅用于依赖定位的功能；选择壁纸、添加小组件按各自系统弹窗确认即可。无需把所有权限都打开，也不需要通讯录、短信、麦克风或所有文件访问权限。</string>
+    <string name="navigation_system_permission_help">若 HyperOS 要求切回系统桌面，请取消，使用 MiDuo 内置「免电脑授权」：开启无线调试，通过 MiDuo 配对浮钮输入配对码，权限校验通过后再启用手势。不需要另外安装 Shizuku，但仍需系统安全确认。不保证小米原生跟手动画；系统权限与 MiDuo 授权码是两回事。</string>
+    <string name="navigation_enabled_check">已启用手势模式，请实际验证返回、主页和最近任务；仅隐藏导航栏不代表验证通过。</string>
+    <string name="navigation_default_required">请先将 MiDuo 设为默认桌面，再启用手势。</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="miduo_requires_activation">Activation required</string>
+    <string name="miduo_activate_before_setup">Activate MiDuo in settings before enabling this feature. Restoring the system launcher remains available.</string>
+</resources>

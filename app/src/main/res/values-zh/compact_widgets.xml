@@ -1,0 +1,9 @@
+<resources>
+    <string name="compact_rename_folder">重命名文件夹</string>
+    <string name="compact_dissolve_folder">解散文件夹，保留桌面应用</string>
+    <string name="weather_example">示例天气</string>
+    <string name="weather_location">所在城市</string>
+    <string name="weather_clear">晴朗无云</string>
+    <string name="weather_high_low">最高29°  最低23°</string>
+    <string name="weather_hour">%1$d时</string>
+</resources>

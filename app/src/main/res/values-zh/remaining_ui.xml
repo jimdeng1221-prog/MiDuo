@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_options">应用操作</string>
+    <string name="pin_app">将%1$s添加到桌面</string>
+    <string name="unpin_app">从桌面移除%1$s</string>
+    <string name="choose_dock_app">选择 Dock 应用</string>
+    <string name="folder_summary">文件夹%1$s，%2$d个应用</string>
+    <string name="cutout_safety">屏幕开孔安全区域</string>
+    <string name="pending_widget">等待添加小组件：%1$s</string>
+    <string name="move_replace_widget">移动或替换小组件</string>
+    <string name="wallpaper_unavailable">系统壁纸预览暂不可用。</string>
+    <string name="wallpaper_service_name">MiDuo 沙丘</string>
+    <string name="folder_close">关闭文件夹</string>
+    <string name="folder_open_app">打开%1$s</string>
+    <string name="folder_app_actions">%1$s的操作</string>
+    <string name="app_unavailable">%1$s暂不可用。</string>
+    <string name="standby_title">待机显示</string>
+    <string name="standby_calendar">全屏日历</string>
+    <string name="standby_night">夜间时钟</string>
+    <string name="standby_widgets">时钟与日历</string>
+    <string name="standby_photo">壁纸时钟</string>
+    <string name="standby_digital">全屏时钟</string>
+    <string name="standby_exit">返回桌面</string>
+    <string name="standby_hint">左右滑动切换 · 竖起手机返回</string>
+    <string name="standby_page">第%1$d页，共%2$d页</string>
+</resources>
